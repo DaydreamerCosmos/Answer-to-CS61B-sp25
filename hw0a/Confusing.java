@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Confusing {
     public static void method1() {
 
